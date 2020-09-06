@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Exec=brightness-controller-gtk
+Icon=/usr/share/icons/sun.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Utility;
+Name=Brightness Controller
+Comment=A Brightness Controller written in GTK3 using xbacklight property
